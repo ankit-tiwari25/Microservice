@@ -1,0 +1,32 @@
+About Project!
+
+
+Service Registry
+
+
+
+API Gateway
+
+
+Config Server
+
+
+Business Layer
+
+
+Distributed Log Tracing -- ZIPKIN
+For all the loggers that we add, all the traces can be passed to ZIPKIN
+Implementation Steps (Through Log file)
+1. Download jar file from official website of zipkin
+2. Move it to a specific folder and open cmd. (I moved to project folder)
+3. Open cmd
+4. run command : java -jar <filename>.jar
+5. Check : localhost:9411/zipkin/
+
+
+
+
+
+
+
+
